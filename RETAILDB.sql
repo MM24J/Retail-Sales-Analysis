@@ -25,7 +25,7 @@ CREATE TABLE Stores_Data_table (
 	Dept VARCHAR NOT NULL,
 	Date DATE NOT NULL,
 	Weekly_Sales_USD DECIMAL,
-	IsHolidAy VARCHAR (255)
+	IsHolidAy BOOLEAN (255)
 );
 
 SELECT *
