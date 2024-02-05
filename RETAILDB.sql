@@ -15,7 +15,7 @@ CREATE TABLE Features_table (
 SELECT *
 FROM Features_table;
 
-DROP TABLE Features_table;
+
 
 DROP TABLE Stores_Data_table;
 
